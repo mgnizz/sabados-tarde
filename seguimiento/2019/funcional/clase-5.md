@@ -8,7 +8,7 @@
 * Orden superior
 
 ## Lecturas recomendados
-
+* [Estructuras Complejas](https://docs.google.com/document/d/11C2UAbP70dP7sTID-ZxJm_a-5ypKxQUEuZr6GVk5yFI)
 
 ## Ejercitación recomendada
 
